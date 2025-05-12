@@ -1,4 +1,4 @@
-My project uses the **Arduino Uno R3** board.
+These projects use the **Arduino Uno R3** board
 ---
 
 This repository contains the following branches:
